@@ -1,0 +1,10 @@
+fecha,activo,marco,setup,entrada,stop,take,salida,resultado_R,notas
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+
+# KPIs (calcular en tu hoja de cálculo)
+# expectancy_R = promedio(resultado_R)
+# hit_rate = conteo(resultado_R>0)/total
+# payoff = promedio(resultado_R>0)/abs(promedio(resultado_R<0))
+# max_drawdown = calcular sobre curva de equity acumulada
