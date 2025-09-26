@@ -1,4 +1,4 @@
-# Clase 01: Principios Fundamentales de Gestión de Riesgo
+# 🛡️ Clase 01: Principios Fundamentales de Gestión de Riesgo
 
 ## 1. Por qué el riesgo manda
 - La prioridad es sobrevivir: sin capital no hay segundas oportunidades.
@@ -20,4 +20,4 @@
 - Simular 10 trades y medir impacto de distintos R/R.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Tamano_de_Posicion_y_Formulas.md)
+Anterior: [← Módulo 03](../03_Analisis_Fundamental/README.md) | Siguiente: [Clase 02 →](Clase_02_Tamano_de_Posicion_y_Formulas.md)

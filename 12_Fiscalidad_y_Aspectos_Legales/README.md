@@ -1,10 +1,10 @@
-# Módulo 12: Fiscalidad y Aspectos Legales
+# ⚖️ Módulo 12: Fiscalidad y Aspectos Legales
 
-## Qué aprenderás
+## 🎓 Qué aprenderás
 - Tipos de ganancias/pérdidas y obligaciones fiscales.
 - Reguladores y protección al inversor.
 
-## Ejercicios
+## 🧩 Ejercicios
 - Simular declaración básica con datos ficticios.
 - Organizar documentación y registros del broker.
 

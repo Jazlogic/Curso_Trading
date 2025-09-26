@@ -1,6 +1,6 @@
-# Módulo 01: Conceptos Básicos y Terminología
+# 📘 Módulo 01: Conceptos Básicos y Terminología
 
-## Índice de clases
+## 📚 Índice de clases
 - [Clase 01: Tipos de Órdenes y Ejecución](Clase_01_Tipos_de_Ordenes_y_Ejecucion.md)
 - [Clase 02: Instrumentos Financieros Básicos](Clase_02_Instrumentos_Financieros_Basicos.md)
 - [Clase 03: Terminología Esencial](Clase_03_Terminologia_Esencial.md)
