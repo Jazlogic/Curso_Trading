@@ -1,4 +1,4 @@
-# Clase 01: Fundamentos del Análisis Técnico
+# 📊 Clase 01: Fundamentos del Análisis Técnico
 
 ## 1. Principios rectores
 - El precio descuenta todo: la información relevante se refleja en el precio.
@@ -28,4 +28,4 @@
 - Marcar cambio de estructura en 10 ejemplos históricos.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Patrones_Graficos_y_Formaciones.md)
+Anterior: [← Módulo 01](../01_Conceptos_Basicos_y_Terminologia/README.md) | Siguiente: [Clase 02 →](Clase_02_Patrones_Graficos_y_Formaciones.md)

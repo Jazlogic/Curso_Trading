@@ -1,4 +1,4 @@
-# Clase 03: Factores Macroeconómicos y Noticias
+# 🌍 Clase 03: Factores Macroeconómicos y Noticias
 
 ## 1. Indicadores clave
 - Crecimiento (PIB), inflación (IPC), empleo, tipos de interés.

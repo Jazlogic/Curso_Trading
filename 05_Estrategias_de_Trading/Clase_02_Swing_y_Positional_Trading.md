@@ -1,4 +1,4 @@
-# Clase 02: Swing y Positional Trading
+# 🌊 Clase 02: Swing y Positional Trading
 
 ## 1. Swing trading
 - Mantener días/semanas buscando capturar tramos de tendencia.

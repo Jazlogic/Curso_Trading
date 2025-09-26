@@ -1,4 +1,4 @@
-# Clase 03: Seguridad y buenas prácticas
+# 🔒 Clase 03: Seguridad y buenas prácticas
 
 ## 1. Seguridad de la cuenta
 - Doble factor (2FA), contraseñas únicas y gestor de contraseñas.

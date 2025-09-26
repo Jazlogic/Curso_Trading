@@ -1,4 +1,4 @@
-# Clase 02: Disciplina y control emocional
+# 🧘 Clase 02: Disciplina y control emocional
 
 ## 1. Autoconciencia
 - Detectar patrones propios: señales internas de sesgo/tilt.

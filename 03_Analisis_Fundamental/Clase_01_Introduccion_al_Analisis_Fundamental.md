@@ -1,4 +1,4 @@
-# Clase 01: Introducción al Análisis Fundamental
+# 🧮 Clase 01: Introducción al Análisis Fundamental
 
 ## 1. Qué es y para qué sirve
 - Evalúa el valor intrínseco de activos mediante información económica, financiera y cualitativa.
@@ -18,4 +18,4 @@
 - Identificar 3 fechas macro que podrían afectar tus entradas.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Estados_Financieros_y_Ratios.md)
+Anterior: [← Módulo 02](../02_Analisis_Tecnico/README.md) | Siguiente: [Clase 02 →](Clase_02_Estados_Financieros_y_Ratios.md)

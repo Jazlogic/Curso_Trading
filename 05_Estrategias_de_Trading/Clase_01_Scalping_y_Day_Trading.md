@@ -1,4 +1,4 @@
-# Clase 01: Scalping y Day Trading
+# ⚡ Clase 01: Scalping y Day Trading
 
 ## 1. Características
 - Scalping: operaciones muy cortas, buscan pequeños recorridos; alta exigencia emocional.
@@ -19,4 +19,4 @@
 - Simular 20 operaciones intradía siguiendo reglas; registrar KPIs.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Swing_y_Positional_Trading.md)
+Anterior: [← Módulo 04](../04_Gestion_de_Riesgos_y_Capital/README.md) | Siguiente: [Clase 02 →](Clase_02_Swing_y_Positional_Trading.md)

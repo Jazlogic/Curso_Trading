@@ -1,4 +1,4 @@
-# Clase 02: Patrones Gráficos y Formaciones de Precios
+# 📐 Clase 02: Patrones Gráficos y Formaciones de Precios
 
 ## 1. Patrones de continuación
 - Triángulos: contracción de rango y continuación de tendencia.

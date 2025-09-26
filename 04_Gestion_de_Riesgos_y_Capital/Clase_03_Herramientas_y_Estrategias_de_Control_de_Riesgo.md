@@ -1,4 +1,4 @@
-# Clase 03: Herramientas y Estrategias de Control de Riesgo
+# 🧰 Clase 03: Herramientas y Estrategias de Control de Riesgo
 
 ## 1. Stops y objetivos
 - Stop-loss: fijo, por tiempo y trailing. Define dónde la idea deja de ser válida.

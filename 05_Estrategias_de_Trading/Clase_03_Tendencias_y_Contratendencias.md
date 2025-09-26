@@ -1,4 +1,4 @@
-# Clase 03: Trading de Tendencias y Contratendencias
+# 🔀 Clase 03: Trading de Tendencias y Contratendencias
 
 ## 1. Tendencia (trend following)
 - Entrar en dirección del movimiento dominante.

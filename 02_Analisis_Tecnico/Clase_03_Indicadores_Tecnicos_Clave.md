@@ -1,4 +1,4 @@
-# Clase 03: Indicadores Técnicos Clave
+# 🧭 Clase 03: Indicadores Técnicos Clave
 
 ## 1. Tendencia
 - Medias móviles (SMA/EMA): dirección y suavizado; cruce, pullbacks.

@@ -1,4 +1,4 @@
-# Clase 03: Mentalidad ganadora y resiliencia
+# 🏅 Clase 03: Mentalidad ganadora y resiliencia
 
 ## 1. Expectativas realistas
 - Aceptar la naturaleza probabilística del trading.

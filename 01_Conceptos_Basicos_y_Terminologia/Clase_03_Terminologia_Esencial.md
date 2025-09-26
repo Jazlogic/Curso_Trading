@@ -1,4 +1,4 @@
-# Clase 03: Terminología Esencial del Trading
+# 🧩 Clase 03: Terminología Esencial del Trading
 
 ## 1. Precios y medidas
 - Bid/Ask: precio de compra/venta. Spread = Ask - Bid.

@@ -1,4 +1,4 @@
-# Clase 02: Tamaño de Posición y Fórmulas Prácticas
+# 📏 Clase 02: Tamaño de Posición y Fórmulas Prácticas
 
 ## 1. Componentes del tamaño
 - Capital total, % de riesgo por trade y distancia al stop.

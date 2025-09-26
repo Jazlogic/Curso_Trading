@@ -1,4 +1,4 @@
-# Clase 01: Tipos de Órdenes y Ejecución (sin tecnicismos)
+# 🧾 Clase 01: Tipos de Órdenes y Ejecución (sin tecnicismos)
 
 ## 1. ¿Qué es una orden?
 - Es la instrucción que le das al broker para comprar o vender.
@@ -32,4 +32,4 @@
 - Registra cada intento en `assets/diario_trading.csv`.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Instrumentos_Financieros_Basicos.md)
+Anterior: [← Módulo 00](../00_Introduccion_al_Trading_y_Mentalidad/README.md) | Siguiente: [Clase 02 →](Clase_02_Instrumentos_Financieros_Basicos.md)

@@ -1,4 +1,4 @@
-# Clase 01: Emociones comunes en el trading
+# 🧠 Clase 01: Emociones comunes en el trading
 
 ## 1. Miedo
 - A perder y a quedarse fuera (FOMO). Señales: dudar, perseguir el precio.
@@ -17,4 +17,4 @@
 - Identificar tus detonantes y escribir acciones preventivas.
 
 ---
-Anterior: — | Siguiente: [Clase 02 →](Clase_02_Disciplina_y_Control_Emocional.md)
+Anterior: [← Módulo 05](../05_Estrategias_de_Trading/README.md) | Siguiente: [Clase 02 →](Clase_02_Disciplina_y_Control_Emocional.md)

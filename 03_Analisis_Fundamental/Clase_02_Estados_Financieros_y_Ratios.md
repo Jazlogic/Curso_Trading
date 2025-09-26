@@ -1,4 +1,4 @@
-# Clase 02: Estados Financieros y Ratios Clave
+# 📑 Clase 02: Estados Financieros y Ratios Clave
 
 ## 1. Estados básicos
 - Balance: activos, pasivos, patrimonio. Salud y apalancamiento.

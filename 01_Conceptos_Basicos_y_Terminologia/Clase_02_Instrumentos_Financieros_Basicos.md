@@ -1,4 +1,4 @@
-# Clase 02: Instrumentos Financieros Básicos
+# 💼 Clase 02: Instrumentos Financieros Básicos
 
 ## 1. Acciones y ETFs
 - Acciones: participación en una empresa. Ventajas: transparencia, liquidez en grandes mercados. Riesgos: gaps por resultados/noticias.
