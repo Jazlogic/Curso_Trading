@@ -1,10 +1,10 @@
-# Módulo 14: Microestructura de Mercado y Ejecución
+# 🧩 Módulo 14: Microestructura de Mercado y Ejecución
 
-## Qué aprenderás
+## 🎓 Qué aprenderás
 - Libro de órdenes, liquidez, impacto y deslizamiento.
 - Algoritmos de ejecución: VWAP, TWAP, POV, IS.
 
-## Ejercicios
+## 🧩 Ejercicios
 - Simular órdenes y medir slippage relativo al spread.
 - Diseñar un plan de ejecución para distinta liquidez.
 

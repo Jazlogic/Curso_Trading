@@ -1,6 +1,6 @@
-# Módulo 09: Trading Avanzado (sin programación)
+# ⚙️ Módulo 09: Trading Avanzado (sin programación)
 
-## Índice de clases
+## 📚 Índice de clases
 - [Clase 01: Conceptos avanzados (sin código)](Clase_01_Conceptos_Avanzados_Sin_Codigo.md)
 - [Clase 02: Diseño de reglas y señales (sin código)](Clase_02_Disenyo_de_Reglas_y_Senales.md)
 - [Clase 03: Gobernanza y control de cambios (sin código)](Clase_03_Gobernanza_y_Control_de_Cambios.md)

@@ -1,10 +1,10 @@
-# Módulo 15: Estadística para Traders y Riesgo Cuantitativo
+# 📐 Módulo 15: Estadística para Traders y Riesgo Cuantitativo
 
-## Qué aprenderás
+## 🎓 Qué aprenderás
 - Expectancy, distribución de rachas, riesgo de ruina.
 - Kelly fraccional, Monte Carlo, métricas avanzadas (Sortino, MAR, Ulcer).
 
-## Ejercicios
+## 🧩 Ejercicios
 - Simular 1000 trayectorias Monte Carlo de tu estrategia.
 - Estimar Kelly fraccional y definir límites derivados.
 

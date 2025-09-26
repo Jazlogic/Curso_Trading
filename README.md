@@ -53,7 +53,8 @@ Bienvenido. Este curso te lleva de principiante a operador profesional mediante 
 ---
 
 ## 🗓️ Plan diario
-- `Plan_Diario/README.md`
+- Plan Diario: [`README`](Plan_Diario/README.md)
+
 
 ---
 

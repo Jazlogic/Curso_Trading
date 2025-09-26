@@ -1,10 +1,10 @@
-# Módulo 13: Mentoría y Desarrollo Continuo
+# 🤝 Módulo 13: Mentoría y Desarrollo Continuo
 
-## Qué aprenderás
+## 🎓 Qué aprenderás
 - Encontrar mentores, comunidades y mantenerte actualizado.
 - Rutinas de revisión y mejora continua.
 
-## Ejercicios
+## 🧩 Ejercicios
 - Identificar un mentor potencial y una comunidad.
 - Plan de desarrollo de 90 días.
 

@@ -1,10 +1,10 @@
-# Módulo 16: Research y Validación de Estrategias
+# 🔬 Módulo 16: Research y Validación de Estrategias
 
-## Qué aprenderás
+## 🎓 Qué aprenderás
 - Proceso científico: hipótesis → prototipo → backtest → OOS → paper.
 - Walk-forward, estabilidad de parámetros, control de cambios, costes realistas.
 
-## Ejercicios
+## 🧩 Ejercicios
 - Checklist anti-overfitting y auditoría de una estrategia.
 - Preparar protocolo de paper trading.
 
